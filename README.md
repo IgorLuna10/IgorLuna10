@@ -1,7 +1,7 @@
 # Salut, moi c'est Igor Luna 👋
 
 > 🎯 **À la recherche d'une alternance — Développeur Full-Stack (Paris / Île-de-France)**  
-> Rythme flexible · Démarrage immédiat · Prêt à construire des produits robustes du backend à l'interface utilisateur.
+> Rythme 3 semaine en entreprise et 1 semaine à l'école · Démarrage immédiat · Prêt à construire des produits robustes du backend à l'interface utilisateur.
 
 ---
 
@@ -35,7 +35,7 @@ I build software across the full spectrum: from high-throughput backend services
 
 ```text
 Backend & Systems    Rust · PHP 8 (Laravel) · Python (Flask) · Node.js · REST / OpenAPI
-Frontend & Desktop   React · Vite · Tailwind CSS · Tauri v2 · Blade · HTML5 / Modern CSS
+Frontend & Desktop   React · Vite · Tailwind CSS · Tauri v2 · HTML5 / Modern CSS
 Data & Storage       PostgreSQL · MySQL · SQLite · MongoDB · Docker / Docker Compose
 AI & Vision          OpenCV · Ultralytics YOLO11 · MediaPipe · EasyOCR · PyTorch
 ```
