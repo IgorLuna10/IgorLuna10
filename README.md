@@ -27,6 +27,6 @@ Focused on building performant backend services, intelligent vision pipelines, a
 
 ### 📬 Connect With Me
 
-- 🌐 Portfolio / Website: [https://igorluna.netlify.app/]((https://igorluna.netlify.app/))
-- 💼 LinkedIn: [https://www.linkedin.com/in/igor-luna-27338b221/?isSelfProfile=true]((https://www.linkedin.com/in/igor-luna-27338b221/?isSelfProfile=true))
+- 🌐 Portfolio / Website: [igorluna.netlify.app](https://igorluna.netlify.app/)
+- 💼 LinkedIn: [Igor Luna](https://www.linkedin.com/in/igor-luna-27338b221/)
 - ✉️ Email: [igor.luna.it@gmail.com](mailto:igor.luna.it@gmail.com)
