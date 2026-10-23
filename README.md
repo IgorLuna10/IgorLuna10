@@ -23,7 +23,7 @@ I build software that does real work: backend systems, computer vision & multimo
 | Project | What It Does | Tech Stack |
 | :--- | :--- | :--- |
 | **[WineLM](https://github.com/IgorLuna10/WineLM)** | Multimodal VLM pipeline that reads wine labels (front & back) and outputs factual serving advice, grape history, and food pairings with zero hallucinations. | **Python, FastAPI, Gemini 1.5 Flash, SQLite FTS5, RapidFuzz** |
-| **[WordSleuth](https://github.com/IgorLuna10/WordSleuth)** | Native iOS app that scans printed word search puzzles with on-device camera OCR and solves word paths in real time. | **Swift 5.9, SwiftUI, Apple Vision, AVFoundation, StoreKit 2** |
+| **[WordSnap](https://github.com/IgorLuna10/WordSnap)** | Native iOS app that scans printed word search puzzles with on-device camera OCR and solves word paths in real time. | **Swift 5.9, SwiftUI, Apple Vision, AVFoundation, StoreKit 2** |
 | **[Alternance-Finder](https://github.com/IgorLuna10/Alternance-Finder)** | Desktop app that searches 5 French job boards at once (*WTTJ, HelloWork, LinkedIn, Indeed, Jobijoba*), scans your PDF resume, and scores compatibility locally. | **Rust, Tauri v2, React 19, SQLite** |
 | **[fire-out-web](https://github.com/IgorLuna10/fire-out-web)** | Production Laravel e-commerce platform for fire safety equipment with payment gateway, catalog management, and admin dashboard. | **PHP 8.3, Laravel 11, Blade, Vite, MySQL** |
 | **[Switch-Detection](https://github.com/IgorLuna10/Switch-Detection)** | Real-time webcam pipeline using YOLO11 and OCR to identify video game cases, with hand/face masking and a terminal dashboard. | **Python, YOLO11, ResNet-18, MediaPipe, EasyOCR, Textual** |
