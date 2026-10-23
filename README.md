@@ -28,7 +28,7 @@ I build software that does real work: backend systems, computer vision & multimo
 | **[fire-out-web](https://github.com/IgorLuna10/fire-out-web)** | Production Laravel e-commerce platform for fire safety equipment with payment gateway, catalog management, and admin dashboard. | **PHP 8.3, Laravel 11, Blade, Vite, MySQL** |
 | **[Switch-Detection](https://github.com/IgorLuna10/Switch-Detection)** | Real-time webcam pipeline using YOLO11 and OCR to identify video game cases, with hand/face masking and a terminal dashboard. | **Python, YOLO11, ResNet-18, MediaPipe, EasyOCR, Textual** |
 | **[notSafe](https://github.com/IgorLuna10/notSafe)** | Password leak checker using the k-anonymity protocol so your password or full hash is never sent over the internet. | **Python, Flask-RESTX, Docker, MongoDB, JWT** |
-| **[CANDLE](https://github.com/IgorLuna10/CANDLE)** | Clean Cantonese vocabulary learning app with audio pronunciation, Jyutping romanization, and Wiktionary definitions. | **React 18, Vite, Tailwind CSS** |
+| **[Jyut.Toi](https://github.com/IgorLuna10/Jyut.Toi)** | Metro-themed Cantonese language learning app with a shared Rust core, tone drills, sentence assembly, and native mobile interfaces. | **Rust, SwiftUI, Kotlin, React 18, Tailwind CSS, Capacitor** |
 | **[finger-draw](https://github.com/IgorLuna10/finger-draw)** | Touchless webcam drawing app using hand tracking—draw with your index finger and switch tools with left-hand gestures. | **Python, OpenCV, MediaPipe** |
 
 ---
