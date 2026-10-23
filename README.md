@@ -14,7 +14,7 @@ I build software that does real work: backend systems, computer vision & multimo
 - 📍 **Location**: Paris, France
 - 🌐 **Portfolio**: [igorluna.netlify.app](https://igorluna.netlify.app/)
 - 💼 **LinkedIn**: [linkedin.com/in/igor-luna-27338b221](https://www.linkedin.com/in/igor-luna-27338b221/)
-- ✉️ **Email**: [igor.luna.it@gmail.com](mailto:igor.luna.it@gmail.com)
+- ✉️ **E-mail**: [igor.luna.it@gmail.com](mailto:igor.luna.it@gmail.com)
 
 ---
 
